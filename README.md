@@ -29,3 +29,34 @@ Utilizaremos Jupyter Notebook ou Colab;
 ● O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
 ● Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+## Squad 4 
+
+- Coloque seu nome aqui  (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/preencha com seu linkedin/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+- Coloque seu nome aqui  (Pessoa Colaboradora 1)<a href="https://www.linkedin.com/in/preencha com seu linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        
+- Marcos Retondar (Pessoa Gestora de Gente e Engajamento) <a href="https://www.linkedin.com/in/marcos-retondar/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+- Thiago Bernardes Chechia (Pessoa Gestora de Conhecimento) <a href="https://www.linkedin.com/in/thiagochechia/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+
+- Coloque seu nome aqui (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/preencha com seu linkedin/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+---------------------------------------------------------------------------------------------------------------------------------------------------
+### Instrucoes de uso
+
+Copia o arquivo X que esta na raiz na deste repositorio e execute-o no Google Colab
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+#### TECNOLOGIAS E BIBLIOTECAS
+
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
