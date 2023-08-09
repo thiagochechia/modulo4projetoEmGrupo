@@ -22,14 +22,14 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
 10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? Além disso, vocês deverão pensar em mais três perguntas que deverão ser respondidas por scripts SQL
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Utilizaremos Jupyter Notebook ou Colab;
-● Realizaremos a limpeza dos dados;
-● Realizaremos a análise exploratória;
-● Responderemos cada uma das perguntas com a visualização mais adequada;
-● O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
-● Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
+## Utilizaremos Jupyter Notebook ou Colab;
+- Realizaremos a limpeza dos dados;
+- Realizaremos a análise exploratória;
+- Responderemos cada uma das perguntas com a visualização mais adequada;
+- O notebook utilizado na análise estara organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
+- Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-## Squad 4 
+### Squad 4 
 
 - Coloque seu nome aqui  (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/preencha com seu linkedin/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -47,12 +47,12 @@ Utilizaremos Jupyter Notebook ou Colab;
 - Coloque seu nome aqui (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/preencha com seu linkedin/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-### Instrucoes de uso
+#### Instrucoes de uso:
 
 Copia o arquivo X que esta na raiz na deste repositorio e execute-o no Google Colab
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-#### TECNOLOGIAS E BIBLIOTECAS
+##### TECNOLOGIAS E BIBLIOTECAS
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
