@@ -21,13 +21,15 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 8. Qual a região que possui o menor valor médio do etanol?
 9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
 10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? Além disso, vocês deverão pensar em mais três perguntas que deverão ser respondidas por scripts SQL
+
+    
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Utilizaremos Jupyter Notebook ou Colab;
-- Realizaremos a limpeza dos dados;
-- Realizaremos a análise exploratória;
-- Responderemos cada uma das perguntas com a visualização mais adequada;
-- O notebook utilizado na análise estara organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
-- Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
+- Realizamos a limpeza dos dados; (Feito Precisa descrever)
+- Realizamos a análise exploratória;( a ser Feito)
+- Respondemos cada uma das perguntas com a visualização mais adequada; (checar todas as perguntas )
+- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown(incrementar) , apresentação dos resultados e insights gerados;( a ser feito )
+- Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.(feito falta Grafico)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Squad 4 
 
