@@ -49,7 +49,9 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 #### Instrucoes de uso:
 
-Copia o arquivo X que esta na raiz na deste repositorio e execute-o no Google Colab
+Copiar o arquivo ( m4ProjetoEmGrupo.ypnb )
+
+que esta na raiz na deste repositorio e execute-o no Google Colab
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ##### TECNOLOGIAS E BIBLIOTECAS
