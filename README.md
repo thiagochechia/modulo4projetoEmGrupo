@@ -55,7 +55,8 @@ Copiar o arquivo ( m4ProjetoEmGrupo.ipynb )
 
 que esta na raiz na deste repositorio e execute-o no Google Colab
 
----------------------------------------------------------------------------------------------------------------------------------------------------
+este repositório contém uma pasta chamada Versões Iniciais e todo material desenvolvido(COMMITS) pelo Squad durante o projeto foi postado nesta pasta .
+-----------------------------------------------------------------------------------------------------------------------------------------------
 ##### TECNOLOGIAS E BIBLIOTECAS
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
@@ -64,3 +65,5 @@ que esta na raiz na deste repositorio e execute-o no Google Colab
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+AGRADECIMENTOS A TODOS INTEGRANTES DO SQUAD JUNTOS REALIZAMOS ESTE PROJETO ❤️ 
