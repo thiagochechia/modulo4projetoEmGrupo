@@ -1,5 +1,6 @@
 # Modulo4projetoEmGrupo
 - DADOS PARA ABASTECER O CARRO
+- # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Maio-Junho/2023)_**
 
 
 -- Evidencia de Aprendizagem:
@@ -33,10 +34,10 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Squad 4 
 
-- Coloque seu nome aqui  (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/preencha com seu linkedin/">
+- Luis Gustavo  (Pessoa Co-facilitadora)<a href="https://www.linkedin.com/in/luisamaral2506?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQNCsO6PBSbej%2Fs6ao4Altg%3D%3D">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Coloque seu nome aqui  (Pessoa Colaboradora 1)<a href="https://www.linkedin.com/in/preencha com seu linkedin">
+- Rodrigo Marques  (Pessoa Colaboradora 1)<a href="https://www.linkedin.com/in/rodrigo-marques021?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Btyhr0gbPQYGTJF1yHU11xQ%3D%3D">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
         
 - Marcos Retondar (Pessoa Gestora de Gente e Engajamento) <a href="https://www.linkedin.com/in/marcos-retondar/">
@@ -46,7 +47,7 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 
-- Coloque seu nome aqui (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/preencha com seu linkedin/">
+- Fabiana Alves (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/fabiana-alves-823333179?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVNAscG4ERfCzSTNKknc5cw%3D%3D">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 #### Instrucoes de uso:
