@@ -1,6 +1,6 @@
 # Modulo4projetoEmGrupo
 - DADOS PARA ABASTECER O CARRO
-- # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Maio-Junho/2023)_**
+- # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Junho-Julho/2023)_**
 
 
 -- Evidencia de Aprendizagem:
