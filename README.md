@@ -3,13 +3,13 @@
 - # <font color ='BLUE'><font size=5>**_DADOS PARA ABASTECER O CARRO˜_** 
 
 
-- # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Junho-Julho/2023)_**
+- # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Maio-Junho-Julho/2023)_**
 
 
 -- Evidencia de Aprendizagem:
 
 
-Nossa equipe equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma
+Nossa equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma
 análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol.
 A ANP é um centro de referência em dados e informações sobre a indústria de petróleo e gás natural no Brasil, que mantém o Banco de Dados de Exploração e Produção (BDEP); divulga as estatísticas oficiais sobre reservas, refino e produção de petróleo, gás e biocombustíveis no Brasil; realiza e divulga pesquisas sobre qualidade dos combustíveis e lubrificantes e sobre o comportamento dos preços desses produtos; promove estudos sobre o potencial petrolífero e o desenvolvimento do setor; entre outras atividades.
 Realizaremos a análise exploratória a partir das fontes de dados disponíveis no portal gov.br. Serão utilizados os arquivos dos tres últimos meses do ano atual (Etanol Hidratado , Gasolina Comum e Gasolina Aditivada) contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
@@ -17,8 +17,7 @@ O arquivo com os dados de Maio foi utilizado como referencia para analise da var
 
 --- Detalhes do projeto:
 ● A análise deve responder às seguintes perguntas:
-1. Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do
-etanol e da gasolina tiveram uma tendência de queda ou diminuição?
+1. Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 2. Qual o preço médio da gasolina e do etanol nesses dois meses?
 3. Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
 4. Qual o preço médio da gasolina e do etanol por estado?
@@ -31,7 +30,7 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-## Utilizaremos Jupyter Notebook ou Colab;
+## Utilizaremos Jupyter Notebook ou Colab, para realizar as tarefas abaixo;
 - Realizamos a limpeza dos dados; 
 - Realizamos a análise exploratória;
 - Respondemos cada uma das perguntas com a visualização mais adequada; 
@@ -56,12 +55,11 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 - Fabiana Alves (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/fabiana-alves-823333179?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVNAscG4ERfCzSTNKknc5cw%3D%3D">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-  -------------   AGRADECIMENTOS A TODOS INTEGRANTES DO SQUAD JUNTOS REALIZAMOS ESTE PROJETO ❤️       
+  ------- AGRADECIMENTOS A TODOS INTEGRANTES DO SQUAD QUE JUNTOS REALIZAMOS ESTE PROJETO ❤️       
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-#### Instrucoes de uso:####
+#### Instrucoes de uso:
 
 Copiar o arquivo ( m4ProjetoEmGrupoFinal.ipynb )
-
 que esta na raiz na deste repositorio e faca upload dele no Google Colab .
 Em seguida execute o codigo  linha por linha (comecando de cima para baixo ) .
 
