@@ -1,5 +1,5 @@
-# Modulo4projetoEmGrupo
-- DADOS PARA ABASTECER O CARRO
+# - PROJETO EM GRUPO  ˜DADOS PARA ABASTECER O CARRO˜ RESILIA EDUCACAO
+
 - # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Junho-Julho/2023)_**
 
 
