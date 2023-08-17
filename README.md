@@ -7,7 +7,8 @@
 Nossa equipe equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma
 análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol.
 A ANP é um centro de referência em dados e informações sobre a indústria de petróleo e gás natural no Brasil, que mantém o Banco de Dados de Exploração e Produção (BDEP); divulga as estatísticas oficiais sobre reservas, refino e produção de petróleo, gás e biocombustíveis no Brasil; realiza e divulga pesquisas sobre qualidade dos combustíveis e lubrificantes e sobre o comportamento dos preços desses produtos; promove estudos sobre o potencial petrolífero e o desenvolvimento do setor; entre outras atividades.
-Realizaremos a análise exploratória a partir das fontes de dados disponíveis no portal gov.br. Serão utilizados os arquivos dos dois últimos meses do ano atual (Etanol Hidratado + Gasolina C) contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
+Realizaremos a análise exploratória a partir das fontes de dados disponíveis no portal gov.br. Serão utilizados os arquivos dos tres últimos meses do ano atual (Etanol Hidratado , Gasolina Comum e Gasolina Aditivada) contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
+O arquivo com os dados de Maio foi utilizado como referencia para analise da variacao dos precos dos meses de junho e julho.
 
 --- Detalhes do projeto:
 ● A análise deve responder às seguintes perguntas:
@@ -26,11 +27,11 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Utilizaremos Jupyter Notebook ou Colab;
-- Realizamos a limpeza dos dados; (Feito Precisa descrever)
-- Realizamos a análise exploratória;( a ser Feito)
-- Respondemos cada uma das perguntas com a visualização mais adequada; (checar todas as perguntas )
-- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown(incrementar) , apresentação dos resultados e insights gerados;( a ser feito )
-- Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.(feito falta Grafico)
+- Realizamos a limpeza dos dados; 
+- Realizamos a análise exploratória;
+- Respondemos cada uma das perguntas com a visualização mais adequada; 
+- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown(incrementar) , apresentação dos resultados e insights gerados;
+- Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Squad 4 
 
