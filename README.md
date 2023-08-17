@@ -49,14 +49,16 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 
 - Fabiana Alves (Pessoa Colaboradora 2) <a href="https://www.linkedin.com/in/fabiana-alves-823333179?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVNAscG4ERfCzSTNKknc5cw%3D%3D">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+  -------------   AGRADECIMENTOS A TODOS INTEGRANTES DO SQUAD JUNTOS REALIZAMOS ESTE PROJETO ❤️       
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-#### Instrucoes de uso:
+#### Instrucoes de uso:####
 
 Copiar o arquivo ( m4ProjetoEmGrupoFinal.ipynb )
 
 que esta na raiz na deste repositorio e execute-o no Google Colab
 
-este repositório contém uma pasta chamada Versões Iniciais e todo material desenvolvido(COMMITS) pelo Squad durante o projeto foi postado nesta pasta .
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ##### TECNOLOGIAS E BIBLIOTECAS
 
@@ -67,4 +69,4 @@ este repositório contém uma pasta chamada Versões Iniciais e todo material de
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-AGRADECIMENTOS A TODOS INTEGRANTES DO SQUAD JUNTOS REALIZAMOS ESTE PROJETO ❤️ 
+
