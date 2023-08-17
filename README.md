@@ -3,8 +3,7 @@
 - # <font color ='BLUE'><font size=5>**_DADOS PARA ABASTECER O CARRO˜_** 
 
 
-- # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Maio-Junho-Julho/2023)_**
-
+- # <font color ='orange'><font size=5> Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Maio-Junho-Julho/2023).
 
 -- Objetivo de Aprendizagem: 🧭
 
@@ -29,7 +28,7 @@ O arquivo com os dados de Maio foi utilizado como referencia para analise da var
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-## Utilizaremos Jupyter Notebook ou Colab, para realizar as tarefas abaixo;
+### Requisitos , para realizar as tarefas;
 - Realizamos a limpeza dos dados; 
 - Realizamos a análise exploratória;
 - Respondemos cada uma das perguntas com a visualização mais adequada; 
