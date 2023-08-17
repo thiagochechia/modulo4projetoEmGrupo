@@ -31,7 +31,7 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 - Realizamos a análise exploratória;
 - Respondemos cada uma das perguntas com a visualização mais adequada; 
 - O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown(incrementar) , apresentação dos resultados e insights gerados;
-- Levantar mais duas perguntas e respondê-las da forma que achar mais adequada.
+- Levantar mais 3 perguntas e respondê-las da forma que achar mais adequada.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Squad 4 
 
@@ -57,7 +57,8 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 
 Copiar o arquivo ( m4ProjetoEmGrupoFinal.ipynb )
 
-que esta na raiz na deste repositorio e execute-o no Google Colab
+que esta na raiz na deste repositorio e faca upload dele no Google Colab .
+Em seguida execute o codigo  linha por linha (comecando de cima para baixo ) .
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
