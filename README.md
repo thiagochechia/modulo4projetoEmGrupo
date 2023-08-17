@@ -35,7 +35,7 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 - Realizamos a limpeza dos dados; 
 - Realizamos a análise exploratória;
 - Respondemos cada uma das perguntas com a visualização mais adequada; 
-- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown(incrementar) , apresentação dos resultados e insights gerados;
+- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
 - Levantar mais 3 perguntas e respondê-las da forma que achar mais adequada.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Squad 4 
