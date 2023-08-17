@@ -3,7 +3,7 @@
 - # <font color ='BLUE'><font size=5>**_DADOS PARA ABASTECER O CARRO˜_** 
 
 
-- # <font color ='orange'><font size=5> Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Maio-Junho-Julho/2023).
+- # <font color ='orange'><font size=5> Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Junho-Julho/2023).
 
 -- Objetivo de Aprendizagem: 🧭
 
