@@ -1,9 +1,14 @@
-# - PROJETO EM GRUPO  ˜DADOS PARA ABASTECER O CARRO˜ RESILIA EDUCACAO
+# - PROJETO EM GRUPO  
+
+- # <font color ='BLUE'><font size=5>**_DADOS PARA ABASTECER O CARRO˜_** 
+
 
 - # <font color ='orange'><font size=5>**_Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Junho-Julho/2023)_**
 
 
 -- Evidencia de Aprendizagem:
+
+
 Nossa equipe equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma
 análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol.
 A ANP é um centro de referência em dados e informações sobre a indústria de petróleo e gás natural no Brasil, que mantém o Banco de Dados de Exploração e Produção (BDEP); divulga as estatísticas oficiais sobre reservas, refino e produção de petróleo, gás e biocombustíveis no Brasil; realiza e divulga pesquisas sobre qualidade dos combustíveis e lubrificantes e sobre o comportamento dos preços desses produtos; promove estudos sobre o potencial petrolífero e o desenvolvimento do setor; entre outras atividades.
@@ -70,5 +75,7 @@ Em seguida execute o codigo  linha por linha (comecando de cima para baixo ) .
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
 
 
