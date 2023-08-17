@@ -22,7 +22,7 @@ etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 7. Qual a região que possui o maior valor médio da gasolina?
 8. Qual a região que possui o menor valor médio do etanol?
 9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
-10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? Além disso, vocês deverão pensar em mais três perguntas que deverão ser respondidas por scripts SQL
+10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? Além disso, vocês deverão pensar em mais três perguntas que deverão ser respondidas .
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------
