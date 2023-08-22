@@ -5,35 +5,35 @@
 
 - # <font color ='orange'><font size=5> Análise Exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. (Junho-Julho/2023).
 
--- Objetivo de Aprendizagem: 🧭
+-- Evidencia de Entrega: 🧭
 
-Para o projeto final do MOD 4 nossa equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma
-análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol.
--A ANP é um centro de referência em dados e informações sobre a indústria de petróleo e gás natural no Brasil, que mantém o Banco de Dados de Exploração e Produção (BDEP), divulga as estatísticas oficiais sobre reservas, refino e produção de petróleo, gás e biocombustíveis no Brasil, realiza e divulga pesquisas sobre qualidade dos combustíveis e lubrificantes e sobre o comportamento dos preços desses produtos, promove estudos sobre o potencial petrolífero e o desenvolvimento do setor.
-- Realizaremos as análises exploratórias a partir das fontes de dados disponíveis no portal gov.br. Serão utilizados os arquivos dos três últimos meses do ano atual (Etanol Hidratado , Gasolina Comum e Gasolina Aditivada) contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
+Para o projeto final do MOD 4 nossa equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma
+análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol.
+-A ANP é um centro de referência em dados e informações sobre a indústria de petróleo e gás natural no Brasil, que mantém o Banco de Dados de Exploração e Produção (BDEP), divulga as estatísticas oficiais sobre reservas, refino e produção de petróleo, gás e biocombustíveis no Brasil, realiza e divulga pesquisas sobre qualidade dos combustíveis e lubrificantes e sobre o comportamento dos preços desses produtos, promove estudos sobre o potencial petrolífero e o desenvolvimento do setor.
+- Realizaremos as análises exploratórias a partir das fontes de dados disponíveis no portal gov.br. Serão utilizados os arquivos dos três últimos meses do ano atual (Etanol Hidratado , Gasolina Comum e Gasolina Aditivada) contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
 O arquivo com os dados de Maio foi utilizado como referencia para analise da variacao dos precos dos meses de junho e julho.
 
 --- Detalhes do projeto:
-● A análise deve responder às seguintes perguntas:
-1. Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou diminuição?
-2. Qual o preço médio da gasolina e do etanol nesses dois meses?
-3. Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
-4. Qual o preço médio da gasolina e do etanol por estado?
-5. Qual o município que possui o menor preço para a gasolina e para o etanol?
-6. Qual o município que possui o maior preço para a gasolina e para o etanol?
-7. Qual a região que possui o maior valor médio da gasolina?
-8. Qual a região que possui o menor valor médio do etanol?
-9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
-10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? Além disso, vocês deverão pensar em mais três perguntas que deverão ser respondidas .
+● A análise deve responder às seguintes perguntas:
+1. Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou diminuição?
+2. Qual o preço médio da gasolina e do etanol nesses dois meses?
+3. Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
+4. Qual o preço médio da gasolina e do etanol por estado?
+5. Qual o município que possui o menor preço para a gasolina e para o etanol?
+6. Qual o município que possui o maior preço para a gasolina e para o etanol?
+7. Qual a região que possui o maior valor médio da gasolina?
+8. Qual a região que possui o menor valor médio do etanol?
+9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
+10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? Além disso, vocês deverão pensar em mais três perguntas que deverão ser respondidas .
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Requisitos , para realizar as tarefas;
 - Realizamos a limpeza dos dados; 
-- Realizamos a análise exploratória;
-- Respondemos cada uma das perguntas com a visualização mais adequada; 
-- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
-- Levantar mais 3 perguntas e respondê-las da forma que achar mais adequada.
+- Realizamos a análise exploratória;
+- Respondemos cada uma das perguntas com a visualização mais adequada; 
+- O notebook utilizado na análise esta organizado, com descrições do passo a passo da análise em markdown, apresentação dos resultados e insights gerados;
+- Levantamos mais 3 perguntas e as respondemos da forma mais adequada.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ### Squad 4 
 
